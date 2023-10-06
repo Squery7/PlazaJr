@@ -1,0 +1,21 @@
+.div-datos{
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 10px;
+    
+}
+
+.div-datos label{
+    font-size: x-large;
+}
+
+.div-datos input{
+    font-size: x-large;
+}
+
+.div-datos button{
+    font-size: x-large;
+}
